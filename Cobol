@@ -25,7 +25,7 @@ probando repo
       *          *                   *     *                    
       *          *                   *     *                    
       **************************************                    
-              ENVIRONMENT DIVISION.                           
+        ENVIRONMENT DIVISION.                           
         INPUT-OUTPUT SECTION.                           
         FILE-CONTROL.                                   
                                                         
